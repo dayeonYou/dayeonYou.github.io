@@ -40,16 +40,15 @@ And demand for it is growing across automotive, robotics, industrial IoT, and co
 
 ---
 
-## 6-Month Roadmap
+## What I Work On
 
-| Month | Focus |
-|-------|-------|
-| 1 | Local LLM basics — Ollama, llama.cpp, GGUF |
-| 2 | Lightweight RAG — embeddings, Qdrant, retrieval pipelines |
-| 3 | CPU optimization — quantization, threading, benchmarks |
-| 4 | Vision AI — YOLO, OCR, Florence2 on CPU |
-| 5 | Deployment — Docker, nginx, Prometheus, systemd |
-| 6 | Portfolio — documentation, benchmarks, open-source cleanup |
+| Area | Stack |
+|------|-------|
+| Local LLM | Ollama, llama.cpp, GGUF |
+| Lightweight RAG | Embeddings, Qdrant, retrieval pipelines |
+| CPU Optimization | Quantization, threading, benchmarks |
+| Vision AI | YOLO, OCR, Florence2 on CPU |
+| Deployment | Docker, nginx, Prometheus, systemd |
 
 ---
 
