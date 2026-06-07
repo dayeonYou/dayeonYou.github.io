@@ -5,6 +5,8 @@ order: 4
 
 ## Hi, I'm Dayeon
 
+📍 Seoul, South Korea &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/dayeon-yoo-3310723b1) &nbsp;·&nbsp; [yoodayeon859@gmail.com](https://mail.google.com/mail/?view=cm&to=yoodayeon859@gmail.com)
+
 Systems engineer specializing in **deploying AI on resource-constrained hardware** — no GPU required.
 
 I come from a low-level background (Embedded Linux, Android Platform, system debugging) and I'm building expertise at the intersection where most AI engineers don't go: **the edge**.
