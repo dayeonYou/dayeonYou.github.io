@@ -3,12 +3,14 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/dayeon-yoo-3310723b1"
 
 - type: email
   icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+  url: "mailto:yoodayeon859@gmail.com"
+  noblank: true
 
 - type: rss
   icon: "fas fa-rss"
