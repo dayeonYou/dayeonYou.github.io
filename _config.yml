@@ -14,9 +14,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Dayeon | On-device AI
+title: "Dayeon"
 
-tagline: Embedded Linux → On-device AI Engineer
+tagline: "On-device AI Engineer"
 
 description: >-
   CPU-only home server로 Local LLM, RAG, Edge AI를 직접 구축하는 엔지니어 로그.
