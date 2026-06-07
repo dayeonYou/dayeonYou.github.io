@@ -9,8 +9,7 @@
 
 - type: email
   icon: "fas fa-envelope"
-  url: "mailto:yoodayeon859@gmail.com"
-  noblank: true
+  url: "https://mail.google.com/mail/?view=cm&to=yoodayeon859@gmail.com"
 
 # Uncomment and complete the url below to enable more contact options
 #
