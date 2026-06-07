@@ -3,25 +3,38 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## Hi, I'm Dayeon 👋
+## Hi, I'm Dayeon
 
-I'm a systems engineer transitioning into **On-device AI Engineering** — specializing in running AI models on resource-constrained hardware without a GPU.
+Systems engineer specializing in **deploying AI on resource-constrained hardware** — no GPU required.
+
+I come from a low-level background (Embedded Linux, Android Platform, system debugging) and I'm building expertise at the intersection where most AI engineers don't go: **the edge**.
 
 ---
 
 ## Background
 
-- **Embedded Linux** — kernel, BSP, system bring-up
-- **Android Platform** — framework, HAL, system debugging
-- **System Debugging** — memory, performance, low-level analysis
+- **Embedded Linux** — kernel bring-up, BSP, device drivers
+- **Android Platform** — framework layer, HAL, system-level debugging
+- **Systems Debugging** — memory analysis, performance profiling, low-level diagnostics
 
 ## What I'm Building
 
-A CPU-only home Linux server running Local LLMs, lightweight RAG, and Vision AI — documenting every step.
+A CPU-only home server running Local LLMs, lightweight RAG pipelines, and Vision AI — from scratch, documented publicly.
 
-**Why CPU-only?**
-> Most edge devices (set-top boxes, robots, appliances, industrial equipment) don't have GPUs.
-> If you can run AI efficiently on a CPU, you can deploy it anywhere.
+> Most AI tutorials assume a GPU and a cloud account.
+> I work without either — because most real devices don't have them.
+
+---
+
+## Why This Matters
+
+The AI industry has a deployment gap.
+
+Researchers build models. Cloud engineers scale them.
+But **running AI reliably on embedded hardware** — set-top boxes, industrial controllers, robotics, appliances — requires a different skill set entirely.
+
+That combination of **systems depth + AI deployment** is rare.
+And demand for it is growing across automotive, robotics, industrial IoT, and consumer electronics.
 
 ---
 
@@ -29,18 +42,17 @@ A CPU-only home Linux server running Local LLMs, lightweight RAG, and Vision AI 
 
 | Month | Focus |
 |-------|-------|
-| 1 | Local LLM basics (Ollama, llama.cpp, GGUF) |
-| 2 | Lightweight RAG (embeddings, Qdrant, retrieval) |
-| 3 | CPU optimization (quantization, threading, benchmarks) |
-| 4 | Vision AI (YOLO, OCR, Florence2 on CPU) |
-| 5 | Deployment (Docker, nginx, Prometheus) |
-| 6 | Portfolio (docs, benchmarks, GitHub cleanup) |
+| 1 | Local LLM basics — Ollama, llama.cpp, GGUF |
+| 2 | Lightweight RAG — embeddings, Qdrant, retrieval pipelines |
+| 3 | CPU optimization — quantization, threading, benchmarks |
+| 4 | Vision AI — YOLO, OCR, Florence2 on CPU |
+| 5 | Deployment — Docker, nginx, Prometheus, systemd |
+| 6 | Portfolio — documentation, benchmarks, open-source cleanup |
 
 ---
 
-## Target Market
+## Target Roles
 
-Japan · Set-top boxes · Robotics · Home appliances · Industrial equipment
+**On-device AI Engineer · Edge AI Engineer · AI Systems Engineer · Embedded ML Engineer**
 
-The intersection of **Embedded Systems + AI Deployment** is rare.
-That's where I'm headed.
+Industries: Robotics · Automotive · Consumer Electronics · Industrial IoT · Defense
